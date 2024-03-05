@@ -3,7 +3,7 @@
 
 _________________________________________________________________________________________________________
 
-
+0 - Installez les fichers nécessaire : https://mega.nz/file/VbsUQSxZ#lFze-3JiRoTVKYN-tiAbyju2qq9ZE5aroqfFzzrFmYc | https://mega.nz/file/8Kk0XZoA#BP8qFa5GVX5JTVJpEgnaJwVA8dAyYxfoyiIksuFL2AY
 1 - Accedez à vos fichers FiveM -> FiveM Application Data 
 2 - Déplacer les fichers du Pack vers les fichers FiveM Application Data ( y compris Natural-Vision.exe )
 3 - Cliquez sur remplacer les fichers puis confirmer
