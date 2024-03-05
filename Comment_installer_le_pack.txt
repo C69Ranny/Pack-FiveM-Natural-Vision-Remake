@@ -1,0 +1,15 @@
+			Natural-Vision remake by Abdel !
+	Si vous rencontrez des problèmes , ajouter moi sur discord : c.zerow
+
+_________________________________________________________________________________________________________
+
+
+1 - Accedez à vos fichers FiveM -> FiveM Application Data 
+2 - Déplacer les fichers du Pack vers les fichers FiveM Application Data ( y compris Natural-Vision.exe )
+3 - Cliquez sur remplacer les fichers puis confirmer
+4 - Lancer FiveM.exe et Natural-Vision.exe
+
+_________________________________________________________________________________________________________
+
+	Et voilà avec le meilleur Pack Graphique d'installer ! 
+			Profiter et bon jeu !
